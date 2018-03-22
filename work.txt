@@ -9,3 +9,5 @@
       long talk with Vlad how to do streamed featch and push, we have to choices
 22.03 test for tnt_open
 	There is some bug in test - struggle with it for 3 hours
+	bind structure and bind output in C api written
+	rfc & issue for tnt C api
