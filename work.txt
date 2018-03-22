@@ -1,0 +1,11 @@
+21.03 made tnt_open   for connections 
+      starting to make bindings and prep ...
+      look at clickhouse it's a good base for odbc
+      we need to do bindings for fetch output
+      we need to do bindings for input too can't use tarantool bindings as is
+      for odbc bindings is requeirements
+      look at docs with Lena. tarantool-c incline docs and docs is not the same 
+      first pull request accepted
+      long talk with Vlad how to do streamed featch and push, we have to choices
+22.03 test for tnt_open
+	There is some bug in test - struggle with it for 3 hours
