@@ -1,0 +1,5 @@
+ We need chunked data stream in SQL API. There is two aproaches to it. First is to
+ use push server API. Second is to extend current protocol. In both cases we need server transformation. Now all sql result is send via one function without suspension. This should be changed. It's good to have for C API cancel or kill command for executed statement without closing connection. If I call statement_close() on client side server should stop sending data and back off. Althought it's a right way to use push for streamed data seems it's much easy to implement protocol changes. Protocol changes can be implemented in stages; first is to adapt protocol and second make a real changes in Server for streamed  chuncked data.
+
+ how to change protocol:
+     Idea is to send current sql result packet many times and introduce end of data flag. Whe need to add integer to body MAP with key TNT_FLAGS. Client should issue reply in loop until it meet packet with TNT_FLAGS and appropriate value for end of data.  

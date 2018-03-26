@@ -6,8 +6,15 @@
       for odbc bindings is requeirements
       look at docs with Lena. tarantool-c incline docs and docs is not the same 
       first pull request accepted
-      long talk with Vlad how to do streamed featch and push, we have to choices
+      long talk with Vlad how to do streamed featch and push, we have two
+       choices
 22.03 test for tnt_open
 	There is some bug in test - struggle with it for 3 hours
 	bind structure and bind output in C api written
 	rfc & issue for tnt C api
+
+23.03 emacs setup
+      indentation fix
+      input parameters in API
+
+26.03 doc on API stream  protocol modification
