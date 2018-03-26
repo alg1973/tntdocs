@@ -1,5 +1,9 @@
- We need chunked data stream in SQL API. There is two aproaches to it. First is to
- use push server API. Second is to extend current protocol. In both cases we need server transformation. Now all sql result is send via one function without suspension. This should be changed. It's good to have for C API cancel or kill command for executed statement without closing connection. If I call statement_close() on client side server should stop sending data and back off. Althought it's a right way to use push for streamed data seems it's much easy to implement protocol changes. Protocol changes can be implemented in stages; first is to adapt protocol and second make a real changes in Server for streamed  chuncked data.
+ We need chunked data stream in the SQL API. There are two approaches to it. First is to
+ use push server API. Second is to extend current protocol. In both cases we need server transformation. Now all SQL result is send via one function without suspension. This should be changed. It's good to have for C API cancel or kill command for executed statement without closing connection. If I call statement_close() on client side server should stop sending data and back off. Although it's a right way to use push for streamed data seems it's much easy to implement protocol changes. Protocol changes can be implemented in stages; first is to adapt protocol and second make a real changes in Server for streamed  chunked data.
 
- how to change protocol:
-     Idea is to send current sql result packet many times and introduce end of data flag. Whe need to add integer to body MAP with key TNT_FLAGS. Client should issue reply in loop until it meet packet with TNT_FLAGS and appropriate value for end of data.  
+How to change protocol:
+     Idea is to allow to send SQL result packets many times and introduce end of data flag. We need to add integer to body MAP with key TNT_FLAGS. Client should issue read reply in loop until it meet packet with TNT_FLAGS and appropriate bit set in it for end of data. Then client should not issue new read if it met this flag set. Also we need to add a parameter in TNT_OP_EXECUTE request. The proposal is to add integer parameter NUM_PREFETCH to body map. It should suggest server how many rows should be send in one reply (chunk).
+     Also it will be good to introduce command "cancel". It will be good to allow client to interrupt long running SQL request thus freeing server resources such as memory, context, cursors, etc.
+
+Then the server push mechanism will be available this steaming mechanism should be adapted to it.
+     
