@@ -18,3 +18,8 @@
       input parameters in API
 
 26.03 doc on API stream  protocol modification
+      ticket filled
+      some new proto idea
+      simple unit test for C modules
+      test for bindings
+      binding debugging
