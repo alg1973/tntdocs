@@ -18,8 +18,14 @@
       input parameters in API
 
 26.03 doc on API stream  protocol modification
-      ticket filled
+      ticket filled about iproto and sql output
       some new proto idea
       simple unit test for C modules
       test for bindings
       binding debugging
+
+27.03 rejected pull-request to tarantool-python and try to look into another
+      Wrote ticket about server side prepare
+      talk to Totktonado about travis/dockers
+      Need to talk to Lena about old tickets
+      inner bindings done and test works to some extend
