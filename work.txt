@@ -29,3 +29,12 @@
       talk to Totktonado about travis/dockers
       Need to talk to Lena about old tickets
       inner bindings done and test works to some extend
+
+28.03 Test test test more tests
+      Some carefully changed API names
+      fix for documentation.sh travis build virtualenv
+      
+29.03 found and made a fix for MacOS clock_gettime SIGSEGV problem
+      pull-requests for tarantool-c one accepted one in the queue
+      some test-run.py glitches
+      some tweeks in SQL C API type conversation
