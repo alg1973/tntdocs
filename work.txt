@@ -43,3 +43,7 @@
       made a new tarantool-python
       start to work with PyPi 
       start to write odbc
+
+2.04 PyPi release Done for tarantool-python module
+     ODBC handle allocation/free routines drafts.
+     ODBC control structures drafts.
