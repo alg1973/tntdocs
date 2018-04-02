@@ -38,3 +38,8 @@
       pull-requests for tarantool-c one accepted one in the queue
       some test-run.py glitches
       some tweeks in SQL C API type conversation
+
+30.03 works with test_run.py and PR 
+      made a new tarantool-python
+      start to work with PyPi 
+      start to write odbc
