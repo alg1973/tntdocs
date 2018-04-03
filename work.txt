@@ -47,3 +47,6 @@
 2.04 PyPi release Done for tarantool-python module
      ODBC handle allocation/free routines drafts.
      ODBC control structures drafts.
+
+3.04 Fixing tarantool-python greetings bug
+     Started to design ODBC errors
