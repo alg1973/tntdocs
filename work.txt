@@ -50,3 +50,8 @@
 
 3.04 Fixing tarantool-python greetings bug
      Started to design ODBC errors
+
+4.04 Made a ticket for documentation fixes
+     Made many-many tickets for spitting and planing ODBC Project
+     Reading and classifying ODBC function set
+     Rejected a PR to tarantool-python
