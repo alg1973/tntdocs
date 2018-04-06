@@ -12,4 +12,4 @@
 (add-hook 'c-mode-hook 'c-style-hook)
 (add-hook 'c++-mode-hook 'c-style-hook)
 
-(set-face-foreground 'font-lock-keyword-face "color-89")
+(set-face-foreground 'font-lock-keyword-face "dark red")
