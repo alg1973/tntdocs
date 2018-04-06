@@ -56,5 +56,9 @@
      Reading and classifying ODBC function set
      Rejected a PR to tarantool-python
 
-5.04 Made github issue PLAN with Agile-Label (C) system
+5.04 Made github issues PLAN with Agile-Label (C) system
      write some part of connection* and *attr ODBC functions
+
+6.04 Made first bunch of code compile and run
+     Made some test
+     
