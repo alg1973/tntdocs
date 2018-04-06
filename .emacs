@@ -11,3 +11,5 @@
 ;; Above lines replaced with Linux style
 (add-hook 'c-mode-hook 'c-style-hook)
 (add-hook 'c++-mode-hook 'c-style-hook)
+
+(set-face-foreground 'font-lock-keyword-face "dark green")
