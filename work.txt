@@ -62,3 +62,5 @@
 6.04 Made first bunch of code compile and run
      Made some test
      
+9.04 Made first set of ODBC statement functions
+     Realised of invalid handle design (I need to rewrote handle handling functions) 
