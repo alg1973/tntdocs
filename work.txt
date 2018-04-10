@@ -64,3 +64,6 @@
      
 9.04 Made first set of ODBC statement functions
      Realised of invalid handle design (I need to rewrote handle handling functions) 
+
+10.04 Same handles reorganization
+      Struggle with win trantool-python bug
