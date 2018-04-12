@@ -70,4 +70,6 @@
       
 11.04 made a fix and debug the previous struggle bug, made a new PyPi release
       SQLExecute and Statment finished
-      
+
+12.04 Started to work with php bug
+      Strted to write input parameters binding in ODBC
