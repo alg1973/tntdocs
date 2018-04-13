@@ -73,3 +73,6 @@
 
 12.04 Started to work with php bug
       Strted to write input parameters binding in ODBC
+
+13.04 Php issue debugging
+       Input parameters binding in ODBC
