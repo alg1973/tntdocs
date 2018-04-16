@@ -76,3 +76,10 @@
 
 13.04 Php issue debugging
        Input parameters binding in ODBC
+
+16.04 in bind finished
+      new test for lite api
+      more types and conversation for in bind
+      out bind started
+      challenge: how to maintain single stucture in C tarantool API what contain pointer to variable 
+      		if the type is different under win32 and win64 without #ifdef? 
