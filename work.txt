@@ -83,3 +83,6 @@
       out bind started
       challenge: how to maintain single stucture in C tarantool API what contain pointer to variable 
       		if the type is different under win32 and win64 without #ifdef? 
+
+17.04 Type reorganization in Lite C API
+      SQLFetch done
