@@ -87,9 +87,13 @@
 17.04 Type reorganization in Lite C API
       SQLFetch done
 
-17.04 Upsert php bug fix
+18.04 Upsert php bug fix
       New release for php
       Need to investigate what is PEAR packages and how need it?
       What to do for php driver for php5?
       Fix for NODATA in LITE API
       GetEnvAttr* started
+
+19.04 Dig in ODBC conversation
+      some additions to LITE API conversation
+      GetSql start
