@@ -97,3 +97,7 @@
 19.04 Dig in ODBC conversation
       some additions to LITE API conversation
       GetSql start
+
+20.04 Made new conversation function avaiable for ODBC
+      Add some code for SQLGetData
+      Made some fix for INT/UINT problem
