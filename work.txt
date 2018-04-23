@@ -101,3 +101,6 @@
 20.04 Made new conversation function avaiable for ODBC
       Add some code for SQLGetData
       Made some fix for INT/UINT problem
+
+23.03 Worked with unix sock issues
+      GetData chunk read basically done
