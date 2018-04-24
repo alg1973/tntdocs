@@ -3,6 +3,8 @@
   	(setq blank-style "color")
 ;;  	(blank-mode)
 )
+
+(show-paren-mode 1)
 	
 ;; (setq-default c-indent-level      8)
 ;; (setq-default c-basic-offset      8)
