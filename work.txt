@@ -102,5 +102,8 @@
       Add some code for SQLGetData
       Made some fix for INT/UINT problem
 
-23.03 Worked with unix sock issues
+23.04 Worked with unix sock issues
       GetData chunk read basically done
+
+24.04 Float to Double research and function
+      Sql description function family
