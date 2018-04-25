@@ -107,3 +107,7 @@
 
 24.04 Float to Double research and function
       Sql description function family
+
+25.04 Research on ODBC result set information requirments
+      Started SQLColAttribute description monster
+      	  
