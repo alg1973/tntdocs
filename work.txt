@@ -111,3 +111,7 @@
 25.04 Research on ODBC result set information requirments
       Started SQLColAttribute description monster
       	  
+26.04 Found missing fields of result set of protocol and filed issue to tarantool
+      made an issue and define a structure for rocks docs changes
+      made an issue and define a structure for connectors docs changes
+      Some additions to get desc functions
