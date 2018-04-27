@@ -115,3 +115,8 @@
       made an issue and define a structure for rocks docs changes
       made an issue and define a structure for connectors docs changes
       Some additions to get desc functions
+
+27.04 browsing tarantool source code and tried to figure out where is code for
+      result set metadata - seems it's optimistic.
+      Dig into ODBC error diagnostic functions
+      SQLGetDiag basically done
