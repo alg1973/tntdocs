@@ -120,3 +120,5 @@
       result set metadata - seems it's optimistic.
       Dig into ODBC error diagnostic functions
       SQLGetDiag basically done
+
+28.04 trying to put it all together (build a driver and run a test) 
