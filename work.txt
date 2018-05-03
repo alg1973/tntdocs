@@ -122,3 +122,12 @@
       SQLGetDiag basically done
 
 28.04 trying to put it all together (build a driver and run a test) 
+
+03.05 Error code translation added (tnt->odbc)
+      Plug odbc driver under UnixODBC manager
+      Run it
+      made attempts to debug it under linux & Mac
+      run connect test
+      added diagnostic tests
+      run connect and diagnistic tests
+      
