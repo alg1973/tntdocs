@@ -130,4 +130,8 @@
       run connect test
       added diagnostic tests
       run connect and diagnistic tests
-      
+
+04.05 Done a comfortable setup for ubuntu linux under virtualBox
+      Fix connection end error handling errors under odbcmanager
+      Done a reindent and renaming due to linux kerenel style guide
+      Look at problem at tarantool-perl
