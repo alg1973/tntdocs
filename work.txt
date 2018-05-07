@@ -135,3 +135,7 @@
       Fix connection end error handling errors under odbcmanager
       Done a reindent and renaming due to linux kerenel style guide
       Look at problem at tarantool-perl
+
+07.05 Read about Apache pass
+      helped with docker/etc
+      SQLDriverConnect was found write part of it
