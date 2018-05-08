@@ -139,3 +139,7 @@
 07.05 Read about Apache pass
       helped with docker/etc
       SQLDriverConnect was found write part of it
+
+08.05 Chat with Kirill about ODBC requirements
+      As a result made a proposal for system metadata tables
+      DriverConnect finished
