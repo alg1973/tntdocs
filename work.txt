@@ -143,3 +143,7 @@
 08.05 Chat with Kirill about ODBC requirements
       As a result made a proposal for system metadata tables
       DriverConnect finished
+
+10.05 Work with pgulutzan@ocelot.ca email/docs about SQLITE API
+      SQLDriverConnect finished new real tests added
+      
