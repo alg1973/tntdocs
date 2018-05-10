@@ -145,5 +145,6 @@
       DriverConnect finished
 
 10.05 Work with pgulutzan@ocelot.ca email/docs about SQLITE API
+      SQL Lite API slight rename redisign
       SQLDriverConnect finished new real tests added
       
