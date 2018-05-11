@@ -148,3 +148,5 @@
       SQL Lite API slight rename redisign
       SQLDriverConnect finished new real tests added
       
+11.05 Added description of metadata table for SQLForeignKeys() function to issues
+      test for prepare, execdirect under real ODBC manager done
