@@ -150,3 +150,6 @@
       
 11.05 Added description of metadata table for SQLForeignKeys() function to issues
       test for prepare, execdirect under real ODBC manager done
+
+14.05 Made a proposal issue for sql error codes
+      Made tests for row_count and input parameters
