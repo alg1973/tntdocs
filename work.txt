@@ -153,3 +153,7 @@
 
 14.05 Made a proposal issue for sql error codes
       Made tests for row_count and input parameters
+
+15.05 Made a reorg in odbc test
+      Made input parameters test
+      Debugging a bug in the execute area
