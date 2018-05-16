@@ -157,3 +157,8 @@
 15.05 Made a reorg in odbc test
       Made input parameters test
       Debugging a bug in the execute area
+
+16.05 Revew and accept php PR
+      fixed a double bug in bindings
+      add same verbose errors
+      made new test for input bindings so input bindings epic done

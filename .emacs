@@ -15,3 +15,11 @@
 (add-hook 'c++-mode-hook 'c-style-hook)
 
 (set-face-foreground 'font-lock-keyword-face "dark red")
+
+
+
+(defun create-tags (dir-name)
+     "Create tags file."
+     (interactive "DDirectory: ")
+     (eshell-command 
+      (format "find %s -type f -name \"*.[ch]*\" | etags -" dir-name)))
