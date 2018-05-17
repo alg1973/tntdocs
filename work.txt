@@ -162,3 +162,6 @@
       fixed a double bug in bindings
       add same verbose errors
       made new test for input bindings so input bindings epic done
+
+17.05 describecol fetch and fetch bind test and EPIC done.
+      work with docs from pgulutzan@
