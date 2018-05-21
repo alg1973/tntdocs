@@ -166,9 +166,13 @@
 17.05 describecol fetch and fetch bind test and EPIC done.
       work with docs from pgulutzan@
 
-18.07 Work with LITE API doc with pgulutzan@
+18.05 Work with LITE API doc with pgulutzan@
       As a result of work with docs renamed some API functions
       Updated github issue/Agile project system
       Fixed bugs with bindings and parameters binings
       Started to implement logging facility for ODBC
       Tests for resultsetbindings and get_data
+
+21.05 More loggin/traceing
+      Simple perf measure
+      Test for stream getdata
