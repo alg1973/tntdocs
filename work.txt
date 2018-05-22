@@ -176,3 +176,8 @@
 21.05 More loggin/traceing
       Simple perf measure
       Test for stream getdata
+
+22.05 More logging
+      some stub functions implemented
+      GetData copiyed from sqlite and edited
+      test for streamed get_data
