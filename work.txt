@@ -179,5 +179,9 @@
 
 22.05 More logging
       some stub functions implemented
-      GetData copiyed from sqlite and edited
+      GetInfo copiyed from sqlite and edited
       test for streamed get_data
+
+23.05 More stub functions
+      Some GetInfo corrections
+      Named parameters added
