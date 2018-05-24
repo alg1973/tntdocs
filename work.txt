@@ -185,3 +185,7 @@
 23.05 More stub functions
       Some GetInfo corrections
       Named parameters added
+      
+24.0  Tackled  with odbc-bench
+      Fixed printf format potability under linux
+      Fixed cursor state issue
