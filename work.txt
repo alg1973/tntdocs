@@ -186,6 +186,15 @@
       Some GetInfo corrections
       Named parameters added
       
-24.0  Tackled  with odbc-bench
+24.05 Tackled  with odbc-bench
       Fixed printf format potability under linux
       Fixed cursor state issue
+
+25.05 Changes for Chunked proto
+      fixing a bug due to change in proto constants
+
+28.05 Meet Parrallels and Windows
+      Work with pgulutzan@ docs emails
+
+29.05   Added Transact function.
+        Made a safe input binding functions family.
