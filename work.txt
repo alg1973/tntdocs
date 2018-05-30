@@ -198,3 +198,7 @@
 
 29.05   Added Transact function.
         Made a safe input binding functions family.
+
+30.05 Set up Windows environment
+      Tried to launch cmake build
+      Fist Windows source code changes
