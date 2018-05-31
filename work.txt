@@ -202,3 +202,6 @@
 30.05 Set up Windows environment
       Tried to launch cmake build
       Fist Windows source code changes
+
+31.05 Msgpuck compiled under windows
+      Struggle with GCC statement as a function feature.
