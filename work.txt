@@ -218,3 +218,4 @@
 
 06.06 Found emacs witespace cleanup tools
       Reindent code with delete-trailing-whitespace
+      Eliminate more warnings/errors
