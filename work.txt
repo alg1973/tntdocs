@@ -1,10 +1,10 @@
-21.03 made tnt_open   for connections 
+21.03 made tnt_open   for connections
       starting to make bindings and prep ...
       look at clickhouse it's a good base for odbc
       we need to do bindings for fetch output
       we need to do bindings for input too can't use tarantool bindings as is
       for odbc bindings is requeirements
-      look at docs with Lena. tarantool-c incline docs and docs is not the same 
+      look at docs with Lena. tarantool-c incline docs and docs is not the same
       first pull request accepted
       long talk with Vlad how to do streamed featch and push, we have two
        choices
@@ -33,15 +33,15 @@
 28.03 Test test test more tests
       Some carefully changed API names
       fix for documentation.sh travis build virtualenv
-      
+
 29.03 found and made a fix for MacOS clock_gettime SIGSEGV problem
       pull-requests for tarantool-c one accepted one in the queue
       some test-run.py glitches
       some tweeks in SQL C API type conversation
 
-30.03 works with test_run.py and PR 
+30.03 works with test_run.py and PR
       made a new tarantool-python
-      start to work with PyPi 
+      start to work with PyPi
       start to write odbc
 
 2.04 PyPi release Done for tarantool-python module
@@ -61,13 +61,13 @@
 
 6.04 Made first bunch of code compile and run
      Made some test
-     
+
 9.04 Made first set of ODBC statement functions
-     Realised of invalid handle design (I need to rewrote handle handling functions) 
+     Realised of invalid handle design (I need to rewrote handle handling functions)
 
 10.04 Same handles reorganization
       Struggle with win trantool-python bug
-      
+
 11.04 made a fix and debug the previous struggle bug, made a new PyPi release
       SQLExecute and Statment finished
 
@@ -81,8 +81,8 @@
       new test for lite api
       more types and conversation for in bind
       out bind started
-      challenge: how to maintain single stucture in C tarantool API what contain pointer to variable 
-      		if the type is different under win32 and win64 without #ifdef? 
+      challenge: how to maintain single stucture in C tarantool API what contain pointer to variable
+		if the type is different under win32 and win64 without #ifdef?
 
 17.04 Type reorganization in Lite C API
       SQLFetch done
@@ -110,7 +110,7 @@
 
 25.04 Research on ODBC result set information requirments
       Started SQLColAttribute description monster
-      	  
+
 26.04 Found missing fields of result set of protocol and filed issue to tarantool
       made an issue and define a structure for rocks docs changes
       made an issue and define a structure for connectors docs changes
@@ -121,7 +121,7 @@
       Dig into ODBC error diagnostic functions
       SQLGetDiag basically done
 
-28.04 trying to put it all together (build a driver and run a test) 
+28.04 trying to put it all together (build a driver and run a test)
 
 03.05 Error code translation added (tnt->odbc)
       Plug odbc driver under UnixODBC manager
@@ -147,7 +147,7 @@
 10.05 Work with pgulutzan@ocelot.ca email/docs about SQLITE API
       SQL Lite API slight rename redisign
       SQLDriverConnect finished new real tests added
-      
+
 11.05 Added description of metadata table for SQLForeignKeys() function to issues
       test for prepare, execdirect under real ODBC manager done
 
@@ -185,7 +185,7 @@
 23.05 More stub functions
       Some GetInfo corrections
       Named parameters added
-      
+
 24.05 Tackled  with odbc-bench
       Fixed printf format potability under linux
       Fixed cursor state issue
@@ -197,7 +197,7 @@
       Work with pgulutzan@ docs emails
 
 29.05   Added Transact function.
-        Made a safe input binding functions family.
+	Made a safe input binding functions family.
 
 30.05 Set up Windows environment
       Tried to launch cmake build
@@ -209,3 +209,12 @@
 01.06 Removed Gnusizm from mhash.h
       Added atomic (fake)
       Added some constants
+
+04.06 Research on statement expression
+      Fixed version of mhash.h
+
+05.06 Work with pgulutzan@ docs emails
+      Fixed test macros for windows
+
+06.06 Found emacs witespace cleanup tools
+      Reindent code with delete-trailing-whitespace
