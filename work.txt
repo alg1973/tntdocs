@@ -225,3 +225,7 @@
       I have started an application under VS.
       Now let's start the application what I intendend to start.
       Connect fixed.
+
+08.06 Lisa's code review
+      All day long struggle with hanging Visal Studio
+      Bunch of test (tarantool-c) done
