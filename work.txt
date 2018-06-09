@@ -229,3 +229,6 @@
 08.06 Lisa's code review
       All day long struggle with hanging Visal Studio
       Bunch of test (tarantool-c) done
+
+09.06 Lisa's code reviw
+      Trying to fix broken 666 bug
