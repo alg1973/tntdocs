@@ -232,3 +232,8 @@
 
 09.06 Lisa's code reviw
       Trying to fix broken 666 bug
+
+13.06 Fixed prev (666) bug
+      Fixed all tarantool-c tests
+      Made (well close to) odbc driver compilation
+      Implemented str*casecmp and strsep for windows
