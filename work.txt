@@ -237,3 +237,6 @@
       Fixed all tarantool-c tests
       Made (well close to) odbc driver compilation
       Implemented str*casecmp and strsep for windows
+
+14.06 strsep research and rewrite
+      hundreds of warnings eliminated
