@@ -244,5 +244,9 @@
 15.06 Try to setup odbc driver dll without support windows functions
       Try to figure out why dbc driver manager call SQL*W functions
 
-15.06 Today discovery: one need to write .def file in order to create dll under Windows
+18.06 Today discovery: one need to write .def file in order to create dll under Windows
       Some stub functions and attributes
+
+19.06 Triyng to find why windows doesn't find my odbc driver
+      Find way to strace under windows
+      Finally managed to run tarantool odbc
