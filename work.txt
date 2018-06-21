@@ -250,3 +250,12 @@
 19.06 Triyng to find why windows doesn't find my odbc driver
       Find way to strace under windows
       Finally managed to run tarantool odbc
+
+20.06 Work with pgulutzan@ docs emails
+      Fixed null bind value handling
+      Added DRIVER dsn keyword
+      affected rows return value corrections
+
+21.06 Set(Get)StmtAttr implemented
+      my odbc_test run with 98% success
+      Conversion fixes
