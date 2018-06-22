@@ -259,3 +259,7 @@
 21.06 Set(Get)StmtAttr implemented
       my odbc_test run with 98% success
       Conversion fixes
+
+22.06 "Dup insert" Test fixed
+       Attempt to install msaccess
+       Started to write ConfigDSN windows functions
