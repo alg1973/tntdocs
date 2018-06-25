@@ -263,3 +263,5 @@
 22.06 "Dup insert" Test fixed
        Attempt to install msaccess
        Started to write ConfigDSN windows functions
+
+25.06 I'm writing Windows for Windows
