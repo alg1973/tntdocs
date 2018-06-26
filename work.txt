@@ -265,3 +265,7 @@
        Started to write ConfigDSN windows functions
 
 25.06 I'm writing Windows for Windows
+
+26.06 Figuring out how push work and how to implement push API
+      Make odbc driver build optional
+      Written some code for setup dll windows
