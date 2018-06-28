@@ -273,3 +273,7 @@
 27.06 Figuring out how to run and use Dialog Editor
       Made a dialog in Dialog Editor
       Windows part of Setup done
+
+28.06 Figuring out why schema_version
+      debugged and aligned Windows Dialog
+      Fixed sometimes did not deleted DSN
