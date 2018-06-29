@@ -277,3 +277,8 @@
 28.06 Figuring out why schema_version
       debugged and aligned Windows Dialog
       Fixed sometimes did not deleted DSN
+
+29.06 Fix for setup dll editing
+      setup ms access
+      trying to connect with system wide DSN
+      trying to fix it
