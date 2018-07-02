@@ -282,3 +282,7 @@
       setup ms access
       trying to connect with system wide DSN
       trying to fix it
+
+02.07 Fix native ODBC Data Source
+      Talk to outsource developer for wininstaller
+      did paperwork for Blikh
