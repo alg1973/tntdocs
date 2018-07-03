@@ -286,3 +286,8 @@
 02.07 Fix native ODBC Data Source
       Talk to outsource developer for wininstaller
       did paperwork for Blikh
+      Made a draft TZ for installer
+
+03.07 Made and fixed log stub for new functions
+      Trace MS access
+      figuring out how to built a schema request
