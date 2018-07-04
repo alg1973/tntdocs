@@ -291,3 +291,7 @@
 03.07 Made and fixed log stub for new functions
       Trace MS access
       figuring out how to built a schema request
+
+04.07 Figuring out how MS access look for columns and
+      what to show it.
+      Started to write reading of space format.
