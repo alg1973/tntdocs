@@ -295,3 +295,8 @@
 04.07 Figuring out how MS access look for columns and
       what to show it.
       Started to write reading of space format.
+
+05.07 Do some code review
+      Figuring out how to return column info
+      fixed error returning functions
+      write some code for returning columns
