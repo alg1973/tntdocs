@@ -45,3 +45,5 @@
       (format "find %s -type f -name \"*.[ch]*\" | etags -" dir-name)))
 
 (add-hook 'before-save-hook 'whitespace-cleanup)
+
+(setq auto-mode-alist (cons '("\\.m$" . octave-mode) auto-mode-alist))

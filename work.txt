@@ -297,6 +297,10 @@
       Started to write reading of space format.
 
 05.07 Do some code review
-      Figuring out how to return column info
+      Figuring out how to return column info chatting with server team
       fixed error returning functions
       write some code for returning columns
+
+
+06.07 Housekeeping in github AGILE/TASK board
+      Some chatting with win installer contractors
