@@ -292,11 +292,11 @@
       Trace MS access
       figuring out how to built a schema request
 
-04.07 Figuring out how MS access look for columns and
-      what to show it.
+04.07 Figuring out how MS access looks for columns and
+      what it wants.
       Started to write reading of space format.
 
-05.07 Do some code review
+05.07 Do some code review (PR)
       Figuring out how to return column info chatting with server team
       fixed error returning functions
       write some code for returning columns
@@ -305,3 +305,5 @@
 06.07 Housekeeping in github AGILE/TASK board
       Some chatting with win installer contractors
       wrote part of column info metadata.
+
+09.07 Table metadata functions and test written
