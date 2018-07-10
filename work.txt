@@ -307,3 +307,6 @@
       wrote part of column info metadata.
 
 09.07 Table metadata functions and test written
+
+10.07 Figuring out how to better return faked metadata
+      Implemented fake resultset
