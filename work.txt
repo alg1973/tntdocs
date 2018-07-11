@@ -310,3 +310,6 @@
 
 10.07 Figuring out how to better return faked metadata
       Implemented fake resultset
+
+11.07 listen to ib-core pres
+      impelemnted col_info on fake resultset
