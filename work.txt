@@ -313,3 +313,5 @@
 
 11.07 listen to ib-core pres
       impelemnted col_info on fake resultset
+
+12.07 SQLSpecialColumns partially done
