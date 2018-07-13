@@ -315,3 +315,9 @@
       impelemnted col_info on fake resultset
 
 12.07 SQLSpecialColumns partially done
+      Setted up Ubuntu under Parallels
+      Foundd mem bug with valgrind
+
+13.07 Got installer draft from contactors, fixing some issues
+      Meeting with contractors
+      Code clean up under Linux
