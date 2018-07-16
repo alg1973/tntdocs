@@ -316,8 +316,10 @@
 
 12.07 SQLSpecialColumns partially done
       Setted up Ubuntu under Parallels
-      Foundd mem bug with valgrind
+      Found mem bug with valgrind
 
 13.07 Got installer draft from contactors, fixing some issues
       Meeting with contractors
       Code clean up under Linux
+
+16.07 Add user supplied types to SpecialColumns
