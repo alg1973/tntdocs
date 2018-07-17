@@ -323,3 +323,6 @@
       Code clean up under Linux
 
 16.07 Add user supplied types to SpecialColumns
+
+17.07 Finished suplied types metadata.
+      Assess contractor week work done
