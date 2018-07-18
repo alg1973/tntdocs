@@ -326,3 +326,5 @@
 
 17.07 Finished suplied types metadata.
       Assess contractor week work done
+
+18.07 Simple SQL Regexp implementation
