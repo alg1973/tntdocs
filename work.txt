@@ -328,3 +328,7 @@
       Assess contractor week work done
 
 18.07 Simple SQL Regexp implementation
+
+19.07 made a spelling fixes
+      do doc work with contractor (Blikh)
+      thinking how to fix simple regexp
