@@ -324,7 +324,7 @@
 
 16.07 Add user supplied types to SpecialColumns
 
-17.07 Finished suplied types metadata.
+17.07 Finished supplied types metadata.
       Assess contractor week work done
 
 18.07 Simple SQL Regexp implementation
