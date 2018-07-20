@@ -332,3 +332,6 @@
 19.07 made a spelling fixes
       do doc work with contractor (Blikh)
       thinking how to fix simple regexp
+
+20.07 fix sql regex time complexity
+      do some work with contractors (windows installer)
