@@ -335,3 +335,7 @@
 
 20.07 fix sql regex time complexity
       do some work with contractors (windows installer)
+
+23.07 Wrote SQLColumns
+      Small fixes to sql_regexp
+      Talks with odbc installer contractor
