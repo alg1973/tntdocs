@@ -1,0 +1,6 @@
+switch on qddb_norm on prod
+make TK zones config
+make barrier listen on cinetd
+keep_alive in cinetd
+make grafana dashboard for smanager tags metric (waits for new release of SM next THU)
+ban_hashes waits for commit to sm due to changes in searcher (searcher now in trunk, waits for the release)
