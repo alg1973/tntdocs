@@ -5,3 +5,8 @@ keep_alive in cinetd (architecture discussed)
 make grafana dashboard for smanager tags metric (waits for new release of SM next THU, found where and how)
 ban_hashes waits for commit to sm due to changes in searcher (searcher now in trunk, waits for the release)
 make new tags in TK configuration for silver and without
+
+16.01
+listen/unlisten test check
+qddb_norm switch
+tag to prod
